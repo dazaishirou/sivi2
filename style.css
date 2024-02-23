@@ -1,7 +1,7 @@
 /*-------MUSIC PLAYER BY GLENTHEMES-------*/
 #glenplayer04 {
    position:fixed;
-  bottom:0;margin-bottom:130px;
+  bottom:0;margin-bottom:10px;
    left:0;margin-left:800px;
    z-index:99;
 }
